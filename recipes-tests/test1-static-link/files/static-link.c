@@ -5,6 +5,6 @@ int* toto (char* id) {
 }
 
 int titi() {
-    return 42;
+    return 43;
 }
 
